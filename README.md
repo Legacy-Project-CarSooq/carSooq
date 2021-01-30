@@ -39,7 +39,7 @@ Installation:
 - npm run react-dev.
 
 
-## How to use?:
+## How to use?
 
 - Sign up to be authorized to all the pages of this website.
 - Log in to enter your profile.
