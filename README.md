@@ -16,7 +16,7 @@ In one sentence it simplifies car trading by connecting sellers & buyers in one 
 
 # Logo:
 <img src= "src/logo.webp" width = "100">
-![](images/CarSooqLogo.png)
+
 
 # Technologies used:
   Technologies built with:
